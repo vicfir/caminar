@@ -116,4 +116,47 @@ section {
   width: 40%;
 }
 
+.rowSect3 {
+  display: flex;
+}
+.rowSect3 .titleSect3 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.rowSect3 .titleSect3 h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  margin: 0;
+  padding: 0 80px;
+}
+.rowSect3 .titleSect3 p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 25px;
+  color: #999999;
+  padding: 0 80px;
+}
+.rowSect3 .bl {
+  background-color: #1e1f23;
+}
+.rowSect3 .bl h3 {
+  text-align: right;
+  color: white;
+}
+.rowSect3 .bl p {
+  text-align: right;
+}
+.rowSect3 div {
+  width: 50%;
+}
+.rowSect3 div img {
+  width: 100%;
+  display: block;
+}
+
 /*# sourceMappingURL=style.css.map */
