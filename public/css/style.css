@@ -7,16 +7,70 @@ header {
   text-align: center;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  padding-top: 200px;
-  padding-bottom: 100px;
+  padding-top: 80px;
+  padding-bottom: 50px;
 }
 header h1 {
-  font-size: 80px;
+  font-size: 70px;
   margin: 0;
 }
 header h3 {
   font-weight: 100;
   margin: 0;
+}
+
+main {
+  width: 70%;
+  margin: auto;
+}
+
+section {
+  width: 100%;
+}
+
+#sect1 {
+  background-color: white;
+}
+#sect1 #imgSect1 {
+  width: 100%;
+}
+#sect1 #imgSect1 img {
+  width: 100%;
+}
+#sect1 #titleSect1 {
+  text-align: center;
+  padding: 50px;
+}
+#sect1 #titleSect1 h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+#sect1 #titleSect1 hr {
+  width: 150px;
+  height: 1px;
+  background-color: #d3d3d3;
+  border: none;
+}
+#sect1 #titleSect1 h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  letter-spacing: 2px;
+  color: #999999;
+}
+#sect1 #txtSect1 {
+  background-color: #f4f4f4;
+  padding: 80px;
+}
+#sect1 #txtSect1 p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 25px;
+  color: #999999;
 }
 
 /*# sourceMappingURL=style.css.map */
